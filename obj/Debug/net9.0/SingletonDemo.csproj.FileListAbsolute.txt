@@ -1,0 +1,14 @@
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/bin/Debug/net9.0/SingletonDemo
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/bin/Debug/net9.0/SingletonDemo.deps.json
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/bin/Debug/net9.0/SingletonDemo.runtimeconfig.json
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/bin/Debug/net9.0/SingletonDemo.dll
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/bin/Debug/net9.0/SingletonDemo.pdb
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/SingletonDemo.AssemblyInfoInputs.cache
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/SingletonDemo.AssemblyInfo.cs
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/SingletonDemo.csproj.CoreCompileInputs.cache
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/SingletonDemo.dll
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/refint/SingletonDemo.dll
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/SingletonDemo.pdb
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/SingletonDemo.genruntimeconfig.cache
+/Users/vdh/Arc/GoFPatterns/SingletonDemo/obj/Debug/net9.0/ref/SingletonDemo.dll
