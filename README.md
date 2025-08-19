@@ -9,7 +9,7 @@ Typischerweise werden Singleton Pattern bei Logging (Ein Logger pro Anwendung), 
 ## Vor- und Nachteile
 Vorteile:
 - Kontrolle: Es gibt garantiert nur eine Instanz
-- Globaler Zugriff: Einfach von überall erreichbar.
+- Globaler Zugriff: Einfach von überall erreichbar
 - Nützlich, wenn die Domäne das rechtfertigt (z.B. nur ein Datenbank-Verbindungspool)
 
 Nachteile:
@@ -19,11 +19,10 @@ Nachteile:
 - Schwer zu erweitern oder auszutauschen (z.B. in Unit Tests)
 
 ## Bessere Alternative 
-Eine bessere Methode ist hierbei die Dependency Injection (DI). Diese wird in einer anderen Repo nochmal detailierter erklärt
+Eine bessere Methode ist hierbei die Dependency Injection (DI). Diese wird in einer anderen Repo nochmal detailierter erklärt. 
 
 ## Merkregeln
-- Singleton nur verwenden, wenn wirklich genau eine Instanz sinnvoll ist und man diese global benötigt
-- In modernen Architekturen meist durch DI ersetzt
+Singleton nur verwenden, wenn wirklich genau eine Instanz sinnvoll ist und man diese global benötigt. In modernen Architekturen meist durch DI ersetzt. 
 
 ### Mini-Übungen
 Mini-Übungen (10–15 Min)
