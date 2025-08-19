@@ -1,7 +1,7 @@
 # Was ist ein Singleton
 Das Singleton Pattern ist ein Muster (Creational Pattern) und sorgt für folgende Eigenschaften:
 - Es gibt genau nur ***eine*** Instanz einer Klasse im ganzen Programm
-- Diese Instant ist global zugreifbar
+- Diese Instanz ist global zugreifbar
 
 ## Anwendungsbereiche
 Typischerweise werden Singleton Pattern bei Logging (Ein Logger pro Anwendung), Konfiguration (zentrale Settings), Resource  Manager (Verbindungspool, Drucker-Queue), usw. verwendet.
