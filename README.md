@@ -26,9 +26,15 @@ Singleton nur verwenden, wenn wirklich genau eine Instanz sinnvoll ist und man d
 
 ### Mini-Übungen
 Mini-Übungen (10–15 Min)
+
 Stateful Singleton
+
 Füge dem Logger einen Zähler hinzu (wie viele Nachrichten geloggt wurden) und gib ihn am Ende aus. Prüfe nebenläufiges Verhalten (mehrere Task.Run).
+
 Konfigurations-Singleton
+
 Implementiere AppConfig.Instance mit Dictionary<string,string> und Get/Set. Diskutiere: Wäre DI hier sinnvoller?
+
 Austauschbarkeit testen
+
 Baue eine Klasse DiagnosticsService mit Abhängigkeit zu ILoggerService (DI-Version). Schreibe einen kleinen „FakeLogger“ in der Main, der statt auf Console in eine Liste schreibt, und verifiziere die Einträge.
