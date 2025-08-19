@@ -11,6 +11,7 @@ Vorteile:
 - Kontrolle: Es gibt garantiert nur eine Instanz
 - Globaler Zugriff: Einfach von überall erreichbar.
 - Nützlich, wenn die Domäne das rechtfertigt (z.B. nur ein Datenbank-Verbindungspool)
+
 Nachteile:
 - Globale Zustände erschweren das Testen (Mocking)
 - Versteckte Abhängigkeiten: Klassen greifen plötzlich überall auf Singleton zu
