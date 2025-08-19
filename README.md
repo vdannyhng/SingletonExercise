@@ -24,17 +24,13 @@ Eine bessere Methode ist hierbei die Dependency Injection (DI). Diese wird in ei
 ## Merkregeln
 Singleton nur verwenden, wenn wirklich genau eine Instanz sinnvoll ist und man diese global benötigt. In modernen Architekturen meist durch DI ersetzt. 
 
-### Mini-Übungen
-Mini-Übungen (10–15 Min)
+## Mini-Übungen (10-15 Min)
 
-Stateful Singleton
-
+### Stateful Singleton
 Füge dem Logger einen Zähler hinzu (wie viele Nachrichten geloggt wurden) und gib ihn am Ende aus. Prüfe nebenläufiges Verhalten (mehrere Task.Run).
 
-Konfigurations-Singleton
-
+### Konfigurations-Singleton
 Implementiere AppConfig.Instance mit Dictionary<string,string> und Get/Set. Diskutiere: Wäre DI hier sinnvoller?
 
-Austauschbarkeit testen
-
+### Austauschbarkeit testen
 Baue eine Klasse DiagnosticsService mit Abhängigkeit zu ILoggerService (DI-Version). Schreibe einen kleinen „FakeLogger“ in der Main, der statt auf Console in eine Liste schreibt, und verifiziere die Einträge.
